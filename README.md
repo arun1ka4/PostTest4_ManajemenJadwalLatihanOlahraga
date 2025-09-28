@@ -32,9 +32,9 @@ Selain itu, terdapat jadwal latihan yang menampilkan salah satunya input dari du
 
 ## 2. Subclass Kekuatan
 
-<img width="606" height="616" alt="image" src="https://github.com/user-attachments/assets/cfe9c821-f149-45e8-82df-241e545c3e3c" />
+<img width="707" height="592" alt="image" src="https://github.com/user-attachments/assets/a5d0d2c6-a6f8-4c75-8e68-5d6abfb6383d" />
 
-Pada subclass Kekuatan, saya hanya menggunakan INTERFACE tapi programnya juga sama. Jika Set dan Repetisi bernilai 0, maka Interface tidak dapat digunakan karena tidak memenuhi kondisi pada method Evaluasi.
+Pada subclass Kekuatan, saya menggunakan INTERFACE tapi programnya juga sama. Jika Set dan Repetisi bernilai 0, maka hal ini tidak sesuai dengan kondisi memenuhi penggunaan interface yaitu adanya evaluasi yang ditampilkan. 
 
 ## 3. Tanpa memilih kategori == tidak melanjutkan program ke Subclass manapun
 
