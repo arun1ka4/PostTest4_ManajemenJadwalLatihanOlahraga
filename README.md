@@ -13,7 +13,7 @@ Fitur program ini terdiri dari beberapa package:
 - class Kardio: terdapat tambahan data tambahan yaitu jarak (dalam satuan km) dan durasi (dalam satuan menit)
 - class Kekuatan terdapat tambahan data tambahan yaitu set dan repetisi
 - Interface EvalLatihan berisi method evaluasi
-3. Service: Menangani logika bisnis dan logika CRUD yang terdiri dari
+2. Service: Menangani logika bisnis dan logika CRUD yang terdiri dari
 - Tambah jadwal -> Menambahkan jenis latihan serta hari latihan tersebut
 - Lihat jadwal -> Melihat jadwal latihan yang telah ditambahkan
 - Update jadwal -> Mengganti jenis latihan dan hari latihan sesuai nomor jadwal
