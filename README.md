@@ -21,3 +21,9 @@ Fitur program ini terdiri dari beberapa package:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/295b5bfc-8d45-48f9-8c79-492648a30e0c" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3a3c169-4991-42a3-a5e9-0a38dfdeb451" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26e7c34e-011c-4878-9610-d20b3f5faceb" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c38de744-55f9-494f-accc-9f292bba1925" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bebcdd8-01bd-4b94-b131-5f6bbfe6cea4" />
