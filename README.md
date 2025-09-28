@@ -1,6 +1,10 @@
 # Manajemen Jadwal Latihan Olahraga
 
 
+Nama  : Nayla Lelyanggraheni Hutomo
+NIM   :2409116061
+
+
 # Deskripsi Program
 Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digunakan user untuk mengatur jadwal latihan olahraga mingguan.
 Fitur program ini terdiri dari beberapa package:
