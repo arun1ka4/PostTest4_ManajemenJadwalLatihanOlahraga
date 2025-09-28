@@ -9,9 +9,10 @@ NIM   :2409116061
 # Deskripsi Program
 Program manajemen jadwal latihan olahraga adalah program berbasis Java yang digunakan user untuk mengatur jadwal latihan olahraga mingguan.
 Fitur program ini terdiri dari beberapa package:
-1. Model: Memiliki class JadwalLatihan dengan subclassnya yaitu class Kardio dan Kekuatan
+1. Model: Memiliki class JadwalLatihan dengan 2 subclass dan 1 interface
 - class Kardio: terdapat tambahan data tambahan yaitu jarak (dalam satuan km) dan durasi (dalam satuan menit)
 - class Kekuatan terdapat tambahan data tambahan yaitu set dan repetisi
+- Interface EvalLatihan berisi method evaluasi
 3. Service: Menangani logika bisnis dan logika CRUD yang terdiri dari
 - Tambah jadwal -> Menambahkan jenis latihan serta hari latihan tersebut
 - Lihat jadwal -> Melihat jadwal latihan yang telah ditambahkan
