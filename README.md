@@ -18,12 +18,26 @@ Fitur program ini terdiri dari beberapa package:
 
 # Dokumentasi Program
 
+## 1. Subclass Kardio
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/295b5bfc-8d45-48f9-8c79-492648a30e0c" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3a3c169-4991-42a3-a5e9-0a38dfdeb451" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26e7c34e-011c-4878-9610-d20b3f5faceb" />
+Beberapa jadwal latihan menampilkan hasil evaluasi berdasarkan durasi atau jarak latihan, sehingga setiap jadwal memberikan saran atau feedback yang berbeda-beda. Ada juga jadwal latihan yang tidak menampilkan evaluasi sama sekali. Hal ini terjadi karena penggunaan INTERFACE dalam program.
+- Jika sebuah jadwal latihan tidak mengimplementasikan interface atau tidak memenuhi kondisi dalam method evaluasi, maka evaluasi tidak akan muncul pada output.
+- Dengan cara ini, interface memastikan bahwa hanya jadwal yang sesuai yang memberikan feedback, sementara jadwal lain tetap dapat ditampilkan tanpa evaluasi.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c38de744-55f9-494f-accc-9f292bba1925" />
+Selain itu, terdapat jadwal latihan yang menampilkan salah satunya input dari durasi atau jarak tempuh latihan. Ini disebabkan penggunaan OVERLOADING. Hal ini disebabkan salah satu dari variabel tersebut diinput nilai 0.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bebcdd8-01bd-4b94-b131-5f6bbfe6cea4" />
+## 2. Subclass Kekuatan
+
+<img width="606" height="616" alt="image" src="https://github.com/user-attachments/assets/cfe9c821-f149-45e8-82df-241e545c3e3c" />
+
+Pada subclass Kekuatan, saya hanya menggunakan INTERFACE tapi programnya juga sama. Jika Set dan Repetisi bernilai 0, maka Interface tidak dapat digunakan karena tidak memenuhi kondisi pada method Evaluasi.
+
+## 3. Tanpa memilih kategori == tidak melanjutkan program ke Subclass manapun
+
+<img width="374" height="639" alt="image" src="https://github.com/user-attachments/assets/adcbf77e-f6fd-4b73-a607-297b0961ddef" />
+
+Perbedaan penggunaan OVERRIDING dan tidak memakai dapat terlihat di sini. Jika user tidak memilih kategori, objek hanya berupa JadwalLatihan biasa, sehingga yang ditampilkan hanyalah informasi dasar dari superclass. Sedangkan jika user memilih kategori seperti Kardio atau Kekuatan, objek menjadi subclass yang menimpa method tampilkanInfo() dan evaluasi(). Akibatnya, output menampilkan informasi dasar plus informasi spesifik kategori dan evaluasi latihan.
