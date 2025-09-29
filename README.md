@@ -24,6 +24,19 @@ Fitur program ini terdiri dari beberapa package:
 
 # Dokumentasi Program
 
+
+<img width="1151" height="498" alt="image" src="https://github.com/user-attachments/assets/69b7ac4b-f757-4a08-a37c-f70884cbff91" />
+
+penjelasan overloading di subclass kardio
+
+<img width="354" height="232" alt="image" src="https://github.com/user-attachments/assets/aa1a7fde-5d34-4d8d-bc89-65f5af09ecda" />
+
+penjelasan interface
+
+<img width="1025" height="529" alt="image" src="https://github.com/user-attachments/assets/c5804d9b-2f24-4fe7-bd7a-5d90cf7bea8f" />
+
+penjelasan overriding
+
 ## 1. Subclass Kardio
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/295b5bfc-8d45-48f9-8c79-492648a30e0c" />
@@ -35,6 +48,7 @@ Beberapa jadwal latihan menampilkan hasil evaluasi berdasarkan durasi atau jarak
 - Dengan cara ini, interface memastikan bahwa hanya jadwal yang sesuai yang memberikan feedback, sementara jadwal lain tetap dapat ditampilkan tanpa evaluasi.
 
 Selain itu, terdapat jadwal latihan yang menampilkan salah satunya input dari durasi atau jarak tempuh latihan. Ini disebabkan penggunaan OVERLOADING. Hal ini disebabkan salah satu dari variabel tersebut diinput nilai 0.
+
 
 ## 2. Subclass Kekuatan
 
