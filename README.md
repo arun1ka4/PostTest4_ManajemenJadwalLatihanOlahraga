@@ -53,6 +53,8 @@ Jadi dengan menggunakan OVERLOADING, user bisa menampilkan salah satu fokus utam
 
 ## 2. Subclass Kekuatan
 
+<img width="1043" height="521" alt="image" src="https://github.com/user-attachments/assets/19428827-d6eb-4345-a2e6-0301b99c7f35" />
+
 <img width="707" height="592" alt="image" src="https://github.com/user-attachments/assets/a5d0d2c6-a6f8-4c75-8e68-5d6abfb6383d" />
 
 Pada subclass Kekuatan, saya menggunakan INTERFACE tapi programnya juga sama. Jika Set dan Repetisi bernilai 0, maka hal ini tidak sesuai dengan kondisi memenuhi penggunaan interface yaitu adanya evaluasi yang ditampilkan. 
